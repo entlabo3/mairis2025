@@ -314,7 +314,7 @@ If you want to check the mapping results, you can use [J-Browse2](https://jbrows
    - Index file - File: `sampleID.sorted.markedup.bam.bai` in the `0130_picard_markduplicates` folder
    - `NEXT` and `ADD`
 
-![JBrowse2 example](fig/jbmapping.png)
+![JBrowse2 example](https://github.com/entlabo3/mairis2025/blob/main/fig/JBmapping.png)
 
 ## Notes
 
