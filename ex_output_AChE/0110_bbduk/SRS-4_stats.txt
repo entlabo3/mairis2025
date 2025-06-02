@@ -1,0 +1,8 @@
+#File	../fastaq/SRS-4-R1.fastq.gz	../fastaq/SRS-4-R2.fastq.gz
+#Total	59814
+#Matched	29454	49.24265%
+#Name	Reads	ReadsPct
+Read2	14220	23.77370%
+Read1	13696	22.89765%
+UDI0001/1	1492	2.49440%
+UDI0001/2	46	0.07691%

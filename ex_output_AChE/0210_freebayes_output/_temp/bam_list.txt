@@ -1,0 +1,16 @@
+./0120_strobealign/Chubo-1.sorted.bam
+./0120_strobealign/Chubo-2.sorted.bam
+./0120_strobealign/Chubo-3.sorted.bam
+./0120_strobealign/Chubo-4.sorted.bam
+./0120_strobealign/SRS-1.sorted.bam
+./0120_strobealign/SRS-2.sorted.bam
+./0120_strobealign/SRS-3.sorted.bam
+./0120_strobealign/SRS-4.sorted.bam
+./0120_strobealign/Takatsuki-1.sorted.bam
+./0120_strobealign/Takatsuki-2.sorted.bam
+./0120_strobealign/Takatsuki-3.sorted.bam
+./0120_strobealign/Takatsuki-4.sorted.bam
+./0120_strobealign/TypeD-1.sorted.bam
+./0120_strobealign/TypeD-2.sorted.bam
+./0120_strobealign/TypeD-3.sorted.bam
+./0120_strobealign/TypeD-4.sorted.bam

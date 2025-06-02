@@ -1,0 +1,14 @@
+##gff-version 3
+
+
+NW_026712344.1	.	gene	116777	116777	.	+	.	ID=gene:AChE;biotype=protein_coding;Name=AChE
+NW_026712344.1	.	transcript	116777	116777	.	+	.	ID=transcript:AChE;Parent=gene:AChE;Name=AChE;biotype=protein_coding
+NW_026712344.1	.	CDS	1000	1124	.	+	0	ID=CDS1:VGSC;Parent=transcript:AChE;Name=exon09;exon_number=9
+NW_026712344.1	.	CDS	38651	38814	.	+	2	ID=CDS2:VGSC;Parent=transcript:AChE;Name=exon08;exon_number=8
+NW_026712344.1	.	CDS	40971	41134	.	+	1	ID=CDS3:VGSC;Parent=transcript:AChE;Name=exon07;exon_number=7
+NW_026712344.1	.	CDS	59017	59166	.	+	0	ID=CDS4:VGSC;Parent=transcript:AChE;Name=exon06;exon_number=6
+NW_026712344.1	.	CDS	78591	78733	.	+	0	ID=CDS5:VGSC;Parent=transcript:AChE;Name=exon05;exon_number=5
+NW_026712344.1	.	CDS	99571	99778	.	+	2	ID=CDS6:VGSC;Parent=transcript:AChE;Name=exon04;exon_number=4
+NW_026712344.1	.	CDS	99864	100400	.	+	0	ID=CDS7:VGSC;Parent=transcript:AChE;Name=exon03;exon_number=3
+NW_026712344.1	.	CDS	100479	100617	.	+	0	ID=CDS8:VGSC;Parent=transcript:AChE;Name=exon02;exon_number=2
+NW_026712344.1	.	CDS	115330	115778	.	+	1	ID=CDS9:VGSC;Parent=transcript:AChE;Name=exon01;exon_number=1

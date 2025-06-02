@@ -1,0 +1,8 @@
+#File	../fastaq/Tyubo-2-R1.fastq.gz	../fastaq/Tyubo-2-R2.fastq.gz
+#Total	25980
+#Matched	11865	45.66975%
+#Name	Reads	ReadsPct
+Read2	5717	22.00539%
+Read1	5466	21.03926%
+UDI0001/1	673	2.59045%
+UDI0001/2	9	0.03464%

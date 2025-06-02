@@ -1,0 +1,54 @@
+2025-05-19 11:33:25,319 - INFO - Starting duplicate marking and CDS filtering process
+2025-05-19 11:33:25,319 - INFO - Memory settings: Picard: 4G, Samtools: 1G
+2025-05-19 11:33:25,324 - INFO - Created BED file: ./ref/ref_trimmed_cds.bed
+2025-05-19 11:33:25,327 - INFO - Found 16 samples to process
+2025-05-19 11:33:25,327 - INFO - Processing with maximum 4 concurrent samples
+2025-05-19 11:33:25,328 - INFO - Processing sample: Chubo-1.sorted
+2025-05-19 11:33:25,328 - INFO - Processing sample: Chubo-2.sorted
+2025-05-19 11:33:25,329 - INFO - Processing sample: Chubo-3.sorted
+2025-05-19 11:33:25,329 - INFO - Processing sample: Chubo-4.sorted
+2025-05-19 11:33:28,391 - INFO - Completed duplicate marking for: Chubo-4.sorted
+2025-05-19 11:33:28,651 - INFO - Successfully processed: Chubo-4.sorted
+2025-05-19 11:33:28,651 - INFO - Processing sample: SRS-1.sorted
+2025-05-19 11:33:28,962 - INFO - Completed duplicate marking for: Chubo-3.sorted
+2025-05-19 11:33:29,070 - INFO - Completed duplicate marking for: Chubo-2.sorted
+2025-05-19 11:33:29,150 - INFO - Successfully processed: Chubo-3.sorted
+2025-05-19 11:33:29,151 - INFO - Processing sample: SRS-2.sorted
+2025-05-19 11:33:29,206 - INFO - Completed duplicate marking for: Chubo-1.sorted
+2025-05-19 11:33:29,267 - INFO - Successfully processed: Chubo-2.sorted
+2025-05-19 11:33:29,267 - INFO - Processing sample: SRS-3.sorted
+2025-05-19 11:33:29,393 - INFO - Successfully processed: Chubo-1.sorted
+2025-05-19 11:33:29,394 - INFO - Processing sample: SRS-4.sorted
+2025-05-19 11:33:32,476 - INFO - Completed duplicate marking for: SRS-1.sorted
+2025-05-19 11:33:32,683 - INFO - Successfully processed: SRS-1.sorted
+2025-05-19 11:33:32,683 - INFO - Processing sample: Takatsuki-1.sorted
+2025-05-19 11:33:32,942 - INFO - Completed duplicate marking for: SRS-3.sorted
+2025-05-19 11:33:32,961 - INFO - Completed duplicate marking for: SRS-2.sorted
+2025-05-19 11:33:33,241 - INFO - Successfully processed: SRS-3.sorted
+2025-05-19 11:33:33,242 - INFO - Processing sample: Takatsuki-2.sorted
+2025-05-19 11:33:33,316 - INFO - Successfully processed: SRS-2.sorted
+2025-05-19 11:33:33,316 - INFO - Processing sample: Takatsuki-3.sorted
+2025-05-19 11:33:33,356 - INFO - Completed duplicate marking for: SRS-4.sorted
+2025-05-19 11:33:33,616 - INFO - Successfully processed: SRS-4.sorted
+2025-05-19 11:33:33,616 - INFO - Processing sample: Takatsuki-4.sorted
+2025-05-19 11:33:35,326 - INFO - Completed duplicate marking for: Takatsuki-1.sorted
+2025-05-19 11:33:35,537 - INFO - Successfully processed: Takatsuki-1.sorted
+2025-05-19 11:33:35,542 - INFO - Processing sample: TypeD-1.sorted
+2025-05-19 11:33:37,770 - INFO - Completed duplicate marking for: Takatsuki-2.sorted
+2025-05-19 11:33:37,804 - INFO - Completed duplicate marking for: Takatsuki-4.sorted
+2025-05-19 11:33:38,018 - INFO - Completed duplicate marking for: Takatsuki-3.sorted
+2025-05-19 11:33:38,248 - INFO - Successfully processed: Takatsuki-4.sorted
+2025-05-19 11:33:38,248 - INFO - Successfully processed: Takatsuki-2.sorted
+2025-05-19 11:33:38,248 - INFO - Processing sample: TypeD-2.sorted
+2025-05-19 11:33:38,249 - INFO - Processing sample: TypeD-3.sorted
+2025-05-19 11:33:38,508 - INFO - Successfully processed: Takatsuki-3.sorted
+2025-05-19 11:33:38,509 - INFO - Processing sample: TypeD-4.sorted
+2025-05-19 11:33:39,667 - INFO - Completed duplicate marking for: TypeD-1.sorted
+2025-05-19 11:33:40,015 - INFO - Successfully processed: TypeD-1.sorted
+2025-05-19 11:33:41,472 - INFO - Completed duplicate marking for: TypeD-3.sorted
+2025-05-19 11:33:41,617 - INFO - Completed duplicate marking for: TypeD-4.sorted
+2025-05-19 11:33:41,638 - INFO - Completed duplicate marking for: TypeD-2.sorted
+2025-05-19 11:33:41,731 - INFO - Successfully processed: TypeD-3.sorted
+2025-05-19 11:33:41,948 - INFO - Successfully processed: TypeD-4.sorted
+2025-05-19 11:33:41,990 - INFO - Successfully processed: TypeD-2.sorted
+2025-05-19 11:33:41,991 - INFO - All sample processing completed

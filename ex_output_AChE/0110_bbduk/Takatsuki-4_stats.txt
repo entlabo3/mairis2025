@@ -1,0 +1,8 @@
+#File	../fastaq/Takatsuki-4-R1.fastq.gz	../fastaq/Takatsuki-4-R2.fastq.gz
+#Total	71586
+#Matched	34620	48.36141%
+#Name	Reads	ReadsPct
+Read2	16744	23.39005%
+Read1	16175	22.59520%
+UDI0001/1	1645	2.29794%
+UDI0001/2	56	0.07823%

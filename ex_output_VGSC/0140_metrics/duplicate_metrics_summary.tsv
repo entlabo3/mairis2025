@@ -1,0 +1,17 @@
+Sample	UNPAIRED_READS_EXAMINED	READ_PAIRS_EXAMINED	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
+Chubo-1.sorted_duplicate_metrics	82	3469	24538	26	629	18.29060	8370
+Chubo-2.sorted_duplicate_metrics	82	2999	18876	34	533	18.09210	7404
+Chubo-3.sorted_duplicate_metrics	38	2015	12912	11	338	16.88790	5313
+Chubo-4.sorted_duplicate_metrics	23	749	3869	6	136	18.27740	1804
+SRS-1.sorted_duplicate_metrics	105	4685	30613	44	882	19.08180	10826
+SRS-2.sorted_duplicate_metrics	209	6520	41767	83	1254	19.55620	14698
+SRS-3.sorted_duplicate_metrics	117	5116	36437	42	1011	19.94400	11184
+SRS-4.sorted_duplicate_metrics	159	6252	44593	71	1182	19.22930	14377
+Takatsuki-1.sorted_duplicate_metrics	51	2757	17445	19	540	19.74840	6085
+Takatsuki-2.sorted_duplicate_metrics	207	10268	71417	92	1929	19.04260	23785
+Takatsuki-3.sorted_duplicate_metrics	315	12479	80449	155	2301	18.82250	29556
+Takatsuki-4.sorted_duplicate_metrics	200	8073	52338	93	1542	19.43590	18346
+TypeD-1.sorted_duplicate_metrics	183	10077	54961	73	1906	19.10310	23161
+TypeD-2.sorted_duplicate_metrics	155	7837	44889	52	1482	19.05360	18026
+TypeD-3.sorted_duplicate_metrics	116	6531	37420	40	1263	19.47180	14647
+TypeD-4.sorted_duplicate_metrics	98	5658	33488	33	1177	20.91290	11639

@@ -1,0 +1,8 @@
+#File	../fastaq/Chubo-3-R1.fastq.gz	../fastaq/Chubo-3-R2.fastq.gz
+#Total	18002
+#Matched	8257	45.86713%
+#Name	Reads	ReadsPct
+Read2	3954	21.96423%
+Read1	3877	21.53650%
+UDI0001/1	419	2.32752%
+UDI0001/2	7	0.03888%

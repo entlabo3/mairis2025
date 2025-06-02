@@ -1,0 +1,8 @@
+#File	../fastaq/YPER-4-R1.fastq.gz	../fastaq/YPER-4-R2.fastq.gz
+#Total	34564
+#Matched	14939	43.22127%
+#Name	Reads	ReadsPct
+Read2	7161	20.71809%
+Read1	6882	19.91089%
+UDI0001/1	874	2.52864%
+UDI0001/2	22	0.06365%

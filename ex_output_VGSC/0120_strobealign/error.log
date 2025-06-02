@@ -1,0 +1,56 @@
+2025-05-19 11:33:11,102 - INFO - Starting alignment process
+2025-05-19 11:33:11,105 - INFO - Found 16 samples to process
+2025-05-19 11:33:11,105 - INFO - Total CPU threads: 16
+2025-05-19 11:33:11,105 - INFO - Reserved system threads: 2
+2025-05-19 11:33:11,106 - INFO - Available threads: 14
+2025-05-19 11:33:11,106 - INFO - Threads per sample: 8
+2025-05-19 11:33:11,106 - INFO - Max concurrent samples: 1
+2025-05-19 11:33:11,107 - INFO - Processing sample: Chubo-1
+2025-05-19 11:33:11,997 - INFO - Created BAM index for: ./0120_strobealign/Chubo-1.sorted.bam
+2025-05-19 11:33:12,003 - INFO - Successfully processed: Chubo-1
+2025-05-19 11:33:12,006 - INFO - Processing sample: Chubo-2
+2025-05-19 11:33:12,865 - INFO - Created BAM index for: ./0120_strobealign/Chubo-2.sorted.bam
+2025-05-19 11:33:12,866 - INFO - Successfully processed: Chubo-2
+2025-05-19 11:33:12,867 - INFO - Processing sample: Chubo-3
+2025-05-19 11:33:13,373 - INFO - Created BAM index for: ./0120_strobealign/Chubo-3.sorted.bam
+2025-05-19 11:33:13,374 - INFO - Successfully processed: Chubo-3
+2025-05-19 11:33:13,375 - INFO - Processing sample: Chubo-4
+2025-05-19 11:33:13,823 - INFO - Created BAM index for: ./0120_strobealign/Chubo-4.sorted.bam
+2025-05-19 11:33:13,823 - INFO - Successfully processed: Chubo-4
+2025-05-19 11:33:13,824 - INFO - Processing sample: SRS-1
+2025-05-19 11:33:14,664 - INFO - Created BAM index for: ./0120_strobealign/SRS-1.sorted.bam
+2025-05-19 11:33:14,664 - INFO - Successfully processed: SRS-1
+2025-05-19 11:33:14,665 - INFO - Processing sample: SRS-2
+2025-05-19 11:33:15,522 - INFO - Created BAM index for: ./0120_strobealign/SRS-2.sorted.bam
+2025-05-19 11:33:15,523 - INFO - Successfully processed: SRS-2
+2025-05-19 11:33:15,523 - INFO - Processing sample: SRS-3
+2025-05-19 11:33:16,422 - INFO - Created BAM index for: ./0120_strobealign/SRS-3.sorted.bam
+2025-05-19 11:33:16,423 - INFO - Successfully processed: SRS-3
+2025-05-19 11:33:16,423 - INFO - Processing sample: SRS-4
+2025-05-19 11:33:17,338 - INFO - Created BAM index for: ./0120_strobealign/SRS-4.sorted.bam
+2025-05-19 11:33:17,339 - INFO - Successfully processed: SRS-4
+2025-05-19 11:33:17,339 - INFO - Processing sample: Takatsuki-1
+2025-05-19 11:33:18,138 - INFO - Created BAM index for: ./0120_strobealign/Takatsuki-1.sorted.bam
+2025-05-19 11:33:18,138 - INFO - Successfully processed: Takatsuki-1
+2025-05-19 11:33:18,139 - INFO - Processing sample: Takatsuki-2
+2025-05-19 11:33:19,163 - INFO - Created BAM index for: ./0120_strobealign/Takatsuki-2.sorted.bam
+2025-05-19 11:33:19,163 - INFO - Successfully processed: Takatsuki-2
+2025-05-19 11:33:19,164 - INFO - Processing sample: Takatsuki-3
+2025-05-19 11:33:20,247 - INFO - Created BAM index for: ./0120_strobealign/Takatsuki-3.sorted.bam
+2025-05-19 11:33:20,248 - INFO - Successfully processed: Takatsuki-3
+2025-05-19 11:33:20,249 - INFO - Processing sample: Takatsuki-4
+2025-05-19 11:33:21,204 - INFO - Created BAM index for: ./0120_strobealign/Takatsuki-4.sorted.bam
+2025-05-19 11:33:21,204 - INFO - Successfully processed: Takatsuki-4
+2025-05-19 11:33:21,204 - INFO - Processing sample: TypeD-1
+2025-05-19 11:33:22,219 - INFO - Created BAM index for: ./0120_strobealign/TypeD-1.sorted.bam
+2025-05-19 11:33:22,228 - INFO - Successfully processed: TypeD-1
+2025-05-19 11:33:22,229 - INFO - Processing sample: TypeD-2
+2025-05-19 11:33:23,445 - INFO - Created BAM index for: ./0120_strobealign/TypeD-2.sorted.bam
+2025-05-19 11:33:23,445 - INFO - Successfully processed: TypeD-2
+2025-05-19 11:33:23,446 - INFO - Processing sample: TypeD-3
+2025-05-19 11:33:24,320 - INFO - Created BAM index for: ./0120_strobealign/TypeD-3.sorted.bam
+2025-05-19 11:33:24,320 - INFO - Successfully processed: TypeD-3
+2025-05-19 11:33:24,321 - INFO - Processing sample: TypeD-4
+2025-05-19 11:33:25,179 - INFO - Created BAM index for: ./0120_strobealign/TypeD-4.sorted.bam
+2025-05-19 11:33:25,180 - INFO - Successfully processed: TypeD-4
+2025-05-19 11:33:25,181 - INFO - All sample processing completed

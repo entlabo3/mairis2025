@@ -1,0 +1,8 @@
+#File	../fastaq/TypeD-3-R1.fastq.gz	../fastaq/TypeD-3-R2.fastq.gz
+#Total	52784
+#Matched	25253	47.84215%
+#Name	Reads	ReadsPct
+Read2	12217	23.14527%
+Read1	11747	22.25485%
+UDI0001/1	1258	2.38330%
+UDI0001/2	31	0.05873%

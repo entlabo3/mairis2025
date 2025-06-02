@@ -1,0 +1,135 @@
+beagle.21Jan17.6cc.jar (version 4.1)
+Copyright (C) 2014-2015 Brian L. Browning
+Enter "java -jar beagle.21Jan17.6cc.jar" for a summary of command line arguments.
+Start time: 11:33 AM JST on 19 May 2025
+
+Command line: java -Xmx32768m -jar beagle.jar
+  gt=./0310_beagle_output/_temp/variants.fixed.vcf.gz
+  out=./0310_beagle_output/beagle_result
+  nthreads=12
+  impute=true
+
+No genetic map is specified: using 1 cM = 1 Mb
+
+reference samples:       0
+target samples:         16
+
+Window 1 [ mdVGSCgenome:1110-177413 ]
+target markers:         68
+
+Starting burn-in iterations
+
+Window=1 Iteration=1
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 9
+mean edges/node:  1.235  mean count/edge: 5
+
+Window=1 Iteration=2
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 10
+mean edges/node:  1.192  mean count/edge: 5
+
+Window=1 Iteration=3
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 10
+mean edges/node:  1.193  mean count/edge: 5
+
+Window=1 Iteration=4
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 9
+mean edges/node:  1.130  mean count/edge: 5
+
+Window=1 Iteration=5
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 10
+mean edges/node:  1.130  mean count/edge: 5
+
+Window=1 Iteration=6
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 10
+mean edges/node:  1.110  mean count/edge: 5
+
+Window=1 Iteration=7
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 10
+mean edges/node:  1.096  mean count/edge: 5
+
+Window=1 Iteration=8
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 10
+mean edges/node:  1.077  mean count/edge: 5
+
+Window=1 Iteration=9
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 6      max edges/level: 10
+mean edges/node:  1.085  mean count/edge: 5
+
+Window=1 Iteration=10
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 10
+mean edges/node:  1.089  mean count/edge: 5
+
+Starting phasing iterations
+
+Window=1 Iteration=11
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 9
+mean edges/node:  1.072  mean count/edge: 5
+
+Window=1 Iteration=12
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 10
+mean edges/node:  1.060  mean count/edge: 5
+
+Window=1 Iteration=13
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 9
+mean edges/node:  1.049  mean count/edge: 5
+
+Window=1 Iteration=14
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 9
+mean edges/node:  1.058  mean count/edge: 5
+
+Window=1 Iteration=15
+Time for building model:         0 seconds
+Time for sampling (singles):     0 seconds
+DAG statistics
+mean edges/level: 7      max edges/level: 9
+mean edges/node:  1.053  mean count/edge: 5
+
+Number of markers:                  68
+Total time for building model: 0 seconds
+Total time for sampling:       0 seconds
+Total run time:                0 seconds
+
+End time: 11:33 AM JST on 19 May 2025
+beagle.21Jan17.6cc.jar (version 4.1) finished

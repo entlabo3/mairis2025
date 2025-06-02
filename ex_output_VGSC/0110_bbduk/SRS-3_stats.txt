@@ -1,0 +1,8 @@
+#File	../fastaq/SRS-3-R1.fastq.gz	../fastaq/SRS-3-R2.fastq.gz
+#Total	49132
+#Matched	24956	50.79378%
+#Name	Reads	ReadsPct
+Read2	12034	24.49320%
+Read1	11626	23.66279%
+UDI0001/1	1253	2.55027%
+UDI0001/2	43	0.08752%

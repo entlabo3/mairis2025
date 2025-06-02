@@ -1,0 +1,56 @@
+2025-05-19 11:35:00,952 - INFO - Starting BBDuk processing
+2025-05-19 11:35:00,952 - INFO - Using adapter file: ../scripts/ngs_adapter.fasta
+2025-05-19 11:35:00,955 - INFO - Total CPU threads: 16
+2025-05-19 11:35:00,956 - INFO - Reserved system threads: 2
+2025-05-19 11:35:00,956 - INFO - Available threads for processing: 14
+2025-05-19 11:35:00,957 - INFO - Max concurrent samples: 2
+2025-05-19 11:35:00,957 - INFO - Threads per sample: 6
+2025-05-19 11:35:00,958 - INFO - Processing sample: Chubo-1
+2025-05-19 11:35:00,958 - INFO - Processing sample: Chubo-2
+2025-05-19 11:35:00,958 - INFO - Command: bbduk.sh in1=../fastaq/Chubo-1-R1.fastq.gz in2=../fastaq/Chubo-1-R2.fastq.gz out1=./0110_bbduk/Chubo-1_R1_paired.fastq.gz out2=./0110_bbduk/Chubo-1_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Chubo-1_stats.txt
+2025-05-19 11:35:00,958 - INFO - Command: bbduk.sh in1=../fastaq/Chubo-2-R1.fastq.gz in2=../fastaq/Chubo-2-R2.fastq.gz out1=./0110_bbduk/Chubo-2_R1_paired.fastq.gz out2=./0110_bbduk/Chubo-2_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Chubo-2_stats.txt
+2025-05-19 11:35:01,604 - INFO - Successfully processed: Chubo-2
+2025-05-19 11:35:01,604 - INFO - Processing sample: Chubo-3
+2025-05-19 11:35:01,605 - INFO - Command: bbduk.sh in1=../fastaq/Chubo-3-R1.fastq.gz in2=../fastaq/Chubo-3-R2.fastq.gz out1=./0110_bbduk/Chubo-3_R1_paired.fastq.gz out2=./0110_bbduk/Chubo-3_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Chubo-3_stats.txt
+2025-05-19 11:35:01,626 - INFO - Successfully processed: Chubo-1
+2025-05-19 11:35:01,627 - INFO - Processing sample: Chubo-4
+2025-05-19 11:35:01,627 - INFO - Command: bbduk.sh in1=../fastaq/Chubo-4-R1.fastq.gz in2=../fastaq/Chubo-4-R2.fastq.gz out1=./0110_bbduk/Chubo-4_R1_paired.fastq.gz out2=./0110_bbduk/Chubo-4_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Chubo-4_stats.txt
+2025-05-19 11:35:02,036 - INFO - Successfully processed: Chubo-4
+2025-05-19 11:35:02,037 - INFO - Processing sample: SRS-1
+2025-05-19 11:35:02,037 - INFO - Command: bbduk.sh in1=../fastaq/SRS-1-R1.fastq.gz in2=../fastaq/SRS-1-R2.fastq.gz out1=./0110_bbduk/SRS-1_R1_paired.fastq.gz out2=./0110_bbduk/SRS-1_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/SRS-1_stats.txt
+2025-05-19 11:35:02,048 - INFO - Successfully processed: Chubo-3
+2025-05-19 11:35:02,048 - INFO - Processing sample: SRS-2
+2025-05-19 11:35:02,049 - INFO - Command: bbduk.sh in1=../fastaq/SRS-2-R1.fastq.gz in2=../fastaq/SRS-2-R2.fastq.gz out1=./0110_bbduk/SRS-2_R1_paired.fastq.gz out2=./0110_bbduk/SRS-2_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/SRS-2_stats.txt
+2025-05-19 11:35:02,638 - INFO - Successfully processed: SRS-1
+2025-05-19 11:35:02,639 - INFO - Processing sample: SRS-3
+2025-05-19 11:35:02,640 - INFO - Command: bbduk.sh in1=../fastaq/SRS-3-R1.fastq.gz in2=../fastaq/SRS-3-R2.fastq.gz out1=./0110_bbduk/SRS-3_R1_paired.fastq.gz out2=./0110_bbduk/SRS-3_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/SRS-3_stats.txt
+2025-05-19 11:35:02,689 - INFO - Successfully processed: SRS-2
+2025-05-19 11:35:02,690 - INFO - Processing sample: SRS-4
+2025-05-19 11:35:02,690 - INFO - Command: bbduk.sh in1=../fastaq/SRS-4-R1.fastq.gz in2=../fastaq/SRS-4-R2.fastq.gz out1=./0110_bbduk/SRS-4_R1_paired.fastq.gz out2=./0110_bbduk/SRS-4_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/SRS-4_stats.txt
+2025-05-19 11:35:03,262 - INFO - Successfully processed: SRS-3
+2025-05-19 11:35:03,262 - INFO - Processing sample: Takatsuki-1
+2025-05-19 11:35:03,262 - INFO - Command: bbduk.sh in1=../fastaq/Takatsuki-1-R1.fastq.gz in2=../fastaq/Takatsuki-1-R2.fastq.gz out1=./0110_bbduk/Takatsuki-1_R1_paired.fastq.gz out2=./0110_bbduk/Takatsuki-1_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Takatsuki-1_stats.txt
+2025-05-19 11:35:03,308 - INFO - Successfully processed: SRS-4
+2025-05-19 11:35:03,308 - INFO - Processing sample: Takatsuki-2
+2025-05-19 11:35:03,308 - INFO - Command: bbduk.sh in1=../fastaq/Takatsuki-2-R1.fastq.gz in2=../fastaq/Takatsuki-2-R2.fastq.gz out1=./0110_bbduk/Takatsuki-2_R1_paired.fastq.gz out2=./0110_bbduk/Takatsuki-2_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Takatsuki-2_stats.txt
+2025-05-19 11:35:03,764 - INFO - Successfully processed: Takatsuki-1
+2025-05-19 11:35:03,764 - INFO - Processing sample: Takatsuki-3
+2025-05-19 11:35:03,765 - INFO - Command: bbduk.sh in1=../fastaq/Takatsuki-3-R1.fastq.gz in2=../fastaq/Takatsuki-3-R2.fastq.gz out1=./0110_bbduk/Takatsuki-3_R1_paired.fastq.gz out2=./0110_bbduk/Takatsuki-3_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Takatsuki-3_stats.txt
+2025-05-19 11:35:04,390 - INFO - Successfully processed: Takatsuki-2
+2025-05-19 11:35:04,390 - INFO - Processing sample: Takatsuki-4
+2025-05-19 11:35:04,391 - INFO - Command: bbduk.sh in1=../fastaq/Takatsuki-4-R1.fastq.gz in2=../fastaq/Takatsuki-4-R2.fastq.gz out1=./0110_bbduk/Takatsuki-4_R1_paired.fastq.gz out2=./0110_bbduk/Takatsuki-4_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/Takatsuki-4_stats.txt
+2025-05-19 11:35:05,040 - INFO - Successfully processed: Takatsuki-3
+2025-05-19 11:35:05,040 - INFO - Processing sample: TypeD-1
+2025-05-19 11:35:05,042 - INFO - Command: bbduk.sh in1=../fastaq/TypeD-1-R1.fastq.gz in2=../fastaq/TypeD-1-R2.fastq.gz out1=./0110_bbduk/TypeD-1_R1_paired.fastq.gz out2=./0110_bbduk/TypeD-1_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/TypeD-1_stats.txt
+2025-05-19 11:35:05,274 - INFO - Successfully processed: Takatsuki-4
+2025-05-19 11:35:05,274 - INFO - Processing sample: TypeD-2
+2025-05-19 11:35:05,274 - INFO - Command: bbduk.sh in1=../fastaq/TypeD-2-R1.fastq.gz in2=../fastaq/TypeD-2-R2.fastq.gz out1=./0110_bbduk/TypeD-2_R1_paired.fastq.gz out2=./0110_bbduk/TypeD-2_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/TypeD-2_stats.txt
+2025-05-19 11:35:05,776 - INFO - Successfully processed: TypeD-1
+2025-05-19 11:35:05,776 - INFO - Processing sample: TypeD-3
+2025-05-19 11:35:05,776 - INFO - Command: bbduk.sh in1=../fastaq/TypeD-3-R1.fastq.gz in2=../fastaq/TypeD-3-R2.fastq.gz out1=./0110_bbduk/TypeD-3_R1_paired.fastq.gz out2=./0110_bbduk/TypeD-3_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/TypeD-3_stats.txt
+2025-05-19 11:35:05,885 - INFO - Successfully processed: TypeD-2
+2025-05-19 11:35:05,885 - INFO - Processing sample: TypeD-4
+2025-05-19 11:35:05,886 - INFO - Command: bbduk.sh in1=../fastaq/TypeD-4-R1.fastq.gz in2=../fastaq/TypeD-4-R2.fastq.gz out1=./0110_bbduk/TypeD-4_R1_paired.fastq.gz out2=./0110_bbduk/TypeD-4_R2_paired.fastq.gz ref=../scripts/ngs_adapter.fasta threads=6 ktrim=r k=23 mink=11 hdist=1 tpe tbo qtrim=rl trimq=20 minlen=36 maq=20 ordered qin=33 stats=./0110_bbduk/TypeD-4_stats.txt
+2025-05-19 11:35:06,353 - INFO - Successfully processed: TypeD-3
+2025-05-19 11:35:06,431 - INFO - Successfully processed: TypeD-4
+2025-05-19 11:35:06,432 - INFO - All sample processing completed
