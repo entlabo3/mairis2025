@@ -316,6 +316,7 @@ If you want to check the mapping results, you can use [J-Browse2](https://jbrows
 \
 \
 \
+
 ![JBrowse2 example](fig/jbmapping.png)
 
 
