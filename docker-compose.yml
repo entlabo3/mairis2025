@@ -1,0 +1,12 @@
+services:  # Start of service definitions
+  mairis:  # Service for the MAIRIS application
+    build:  # Docker image build settings
+      context: .  # Build context (current directory)
+      dockerfile: Dockerfile  # Dockerfile to use
+    volumes:
+      - ./:/opt/mairis  # Mount current directory to /opt/mairis in the container
+
+    # Keep the container interactive
+    tty: true  # Allocate a pseudo-TTY
+    stdin_open: true  # Keep STDIN open
+
