@@ -21,7 +21,7 @@ RUN apt-get update && \
         wget \
         unzip \
         vim \
-        default-jre=2:1.11-72
+        default-jre
 
 # Install Picard
 RUN wget https://github.com/broadinstitute/picard/releases/download/3.3.0/picard.jar -P /opt
